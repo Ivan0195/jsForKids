@@ -1,0 +1,15 @@
+var age = 11;
+var accompanied = true;
+var ageLevel = age >= 12;
+ageLevel || accompanied;
+true
+var age = 11;
+var accompanied = false;
+var ageLevel = age >= 12;
+ageLevel || accompanied;
+false
+var age = 16;
+var accompanied = false;
+var ageLevel = age >= 12;
+ageLevel || accompanied;
+true
