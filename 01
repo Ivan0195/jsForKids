@@ -35,3 +35,11 @@ myWishList[0] = "visit Las Vegas"
 'visit Las Vegas'
 myWishList
 (5) ['visit Las Vegas', 'buy new car', 'become highlevel developer', 'find a love of my life', 'make some new tattooes']
+var myFriendsNames = [];
+myFriendsNames[0] = "pasha";
+myFriendsNames[1] = "kate";
+myFriendsNames[2] = "arthur";
+myFriendsNames[3] = "Pablo"
+'Pablo'
+myFriendsNames
+(4) ['pasha', 'kate', 'arthur', 'Pablo']
