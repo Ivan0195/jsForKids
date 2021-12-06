@@ -13,3 +13,25 @@ var accompanied = false;
 var ageLevel = age >= 12;
 ageLevel || accompanied;
 true
+var myWishList = [ 
+"visit Paris",
+"buy new car",
+"become highlevel developer",
+"find a love of my life",
+"make some new tattooes"];
+myWishList[2]; 
+'become highlevel developer'
+var myWishList = [ 
+"visit Paris",
+"buy new car",
+"become highlevel developer",
+"find a love of my life",
+"make some new tattooes"];
+myWishList[0] = "visiy Las Vegas";
+'visiy Las Vegas'
+myWishList
+(5) ['visiy Las Vegas', 'buy new car', 'become highlevel developer', 'find a love of my life', 'make some new tattooes']
+myWishList[0] = "visit Las Vegas"
+'visit Las Vegas'
+myWishList
+(5) ['visit Las Vegas', 'buy new car', 'become highlevel developer', 'find a love of my life', 'make some new tattooes']
