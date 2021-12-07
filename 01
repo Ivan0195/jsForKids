@@ -43,3 +43,214 @@ myFriendsNames[3] = "Pablo"
 'Pablo'
 myFriendsNames
 (4) ['pasha', 'kate', 'arthur', 'Pablo']
+Math.random();
+0.7046345434288435
+Math.random();
+0.37738112872589324
+Math.random();
+0.4925953945570456
+Math.random();
+0.354871543296015
+Math.random();
+0.28287988000492303
+Math.random();
+0.4332519156662178
+Math.random();
+0.13354957322568906
+Math.random();
+0.10300568795244813
+Math.random();
+0.1833419904601692
+Math.random()*10;
+4.764771821417517
+Math.random()*10;
+3.390525588072615
+Math.random()*10;
+5.275857039842027
+Math.random()*10;
+4.048908606154738
+Math.floor(Math.random());
+0
+Math.floor(Math.random());
+0
+Math.floor(Math.random()*10);
+9
+Math.floor(Math.random()*10);
+9
+Math.floor(Math.random()*10);
+9
+Math.floor(Math.random()*10);
+1
+Math.floor(Math.random()*10);
+1
+Math.floor(Math.random()*10);
+1
+Math.floor(Math.random()*10);
+7
+Math.floor(Math.random()*10);
+2
+Math.floor(Math.random()*10);
+1
+Math.floor(Math.random()*10);
+8
+Math.floor(Math.random()*10);
+7
+Math.floor(Math.random()*10);
+2
+Math.floor(Math.random()*10);
+2
+Math.floor(Math.random()*10);
+6
+Math.floor(Math.random()*10);
+6
+Math.floor(Math.random()*10);
+7
+Math.floor(Math.random()*10);
+5
+Math.floor(Math.random()*10);
+9
+Math.floor(Math.random()*10);
+0
+Math.floor(Math.random()*10);
+2
+Math.floor(Math.random()*10);
+2
+Math.floor(Math.random()*10);
+4
+Math.floor(Math.random()*10);
+6
+Math.floor(Math.random()*10);
+6
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = Math.random()*4;
+randomWords.pop(randomIndex);
+'chocolate'
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = Math.random()*4;
+randomWords.pop(randomIndex);
+'chocolate'
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = Math.random()*4;
+randomWords.pop(randomIndex);
+'chocolate'
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = Math.random()*4;
+randomWords.pop(randomIndex);
+'chocolate'
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = Math.random()*4;
+randomWords.pop(randomIndex);
+'chocolate'
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = Math.random()*4;
+randomWords.pop(randomIndex);
+'chocolate'
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = Math.random()*4;
+randomWords.pop(randomIndex);
+'chocolate'
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = Math.random()*4;
+randomWords.pop(randomIndex);
+'chocolate'
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = Math.random()*4;
+randomWords[randomIndex];
+undefined
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = Math.random()*4;
+var x = randomWords[randomIndex];
+console.log(x);
+VM845:4 undefined
+undefined
+Math.random()*4
+0.9672991272786859
+Math.random()*4
+2.4087233786562487
+Math.random()*4
+0.8552663651953587
+Math.random()*4
+0.9154041223338343
+Math.random()*4
+0.7574263742498717
+Math.random()*4
+0.3601737578957245
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = matchMedia.floor(Math.random()*4);
+var x = randomWords[randomIndex];
+console.log(x);
+VM919:2 Uncaught TypeError: matchMedia.floor is not a function
+    at <anonymous>:2:30
+(anonymous) @ VM919:2
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = Math.floor(Math.random()*4);
+var x = randomWords[randomIndex];
+console.log(x);
+VM934:4 chocolate
+undefined
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = Math.floor(Math.random()*4);
+var x = randomWords[randomIndex];
+console.log(x);
+VM937:4 beer
+undefined
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = Math.floor(Math.random()*4);
+var x = randomWords[randomIndex];
+console.log(x);
+VM940:4 orange
+undefined
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = Math.floor(Math.random()*4);
+var x = randomWords[randomIndex];
+console.log(x);
+VM943:4 chocolate
+undefined
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = Math.floor(Math.random()*4);
+var x = randomWords[randomIndex];
+console.log(x);
+VM946:4 beer
+undefined
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = Math.floor(Math.random()*4);
+var x = randomWords[randomIndex];
+console.log(x);
+VM949:4 beer
+undefined
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = Math.floor(Math.random()*4);
+var x = randomWords[randomIndex];
+console.log(x);
+VM952:4 beer
+undefined
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = Math.floor(Math.random()*4);
+var x = randomWords[randomIndex];
+console.log(x);
+VM955:4 beer
+undefined
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = Math.floor(Math.random()*4);
+var x = randomWords[randomIndex];
+console.log(x);
+VM958:4 chocolate
+undefined
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = Math.floor(Math.random()*4);
+var x = randomWords[randomIndex];
+console.log(x);
+VM961:4 orange
+undefined
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = Math.floor(Math.random()*4);
+var x = randomWords[randomIndex];
+console.log(x);
+VM964:4 orange
+undefined
+var randomWords = ['bread', 'orange', 'beer', 'chocolate'];
+var randomIndex = Math.floor(Math.random()*4);
+var x = randomWords[randomIndex];
+console.log(x);
+VM966:4 beer
+undefined
